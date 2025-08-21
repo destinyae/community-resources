@@ -53,7 +53,7 @@ Capsule enables apps to easily and securely bring users onchain with social sign
 [Capsule Wallet](http://usecapsule.com/)
 #### Switchboard Oracle:
 Switchboard is a pull based oracle platform enabling builders to tailor hi-fidelity and exotic data feeds for their dApps while simultaneously composing with data feeds from Pyth and Chainlink. With Switchboard you can build oracles and publish data feeds that service your exact needs. Checkout the resources below to learn more.\
-[Getting Started with Switchboard for EVM](https://docs.switchboard.xyz/docs/switchboard/switchboard-on-evm)\
+[Getting Started with Switchboard for EVM](https://docs.switchboard.xyz/product-documentation/data-feeds/evm)\
 [Switchboard Example Repo](https://github.com/switchboard-xyz/evm-on-demand)
 #### thirdweb:
 thirdweb is a full stack Web3 platform enabling builders to build in Web3 with end-to-end solutions and APIs for making interacting with the blockchain in your applications a painless experience.\
